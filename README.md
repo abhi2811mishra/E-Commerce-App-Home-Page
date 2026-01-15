@@ -51,16 +51,16 @@ To build a Flutter-based e-commerce home page that:
 > Screenshots taken from Android & iOS emulators
 
 ### Home Page (Android)
-![Android Home](<img width="491" height="1007" alt="image" src="https://github.com/user-attachments/assets/6d8fceb6-6c37-46b4-82d4-59c1b5419424" />
-)
+<img width="491" height="1007" alt="image" src="https://github.com/user-attachments/assets/6d8fceb6-6c37-46b4-82d4-59c1b5419424" />
+
 
 ### Home Page (iOS)
-![iOS Home](<img width="491" height="1007" alt="image" src="https://github.com/user-attachments/assets/0ae0ee85-190a-48a7-8da5-f2189026a7ef" />
-)
+<img width="491" height="1007" alt="image" src="https://github.com/user-attachments/assets/0ae0ee85-190a-48a7-8da5-f2189026a7ef" />
+
 
 ### Product Detail Page
-![Product Detail](<img width="473" height="1014" alt="image" src="https://github.com/user-attachments/assets/dd22e52b-f1b7-4dec-9b78-a39dbcd2b72e" />
-)
+<img width="473" height="1014" alt="image" src="https://github.com/user-attachments/assets/dd22e52b-f1b7-4dec-9b78-a39dbcd2b72e" />
+
 
 ---
 
