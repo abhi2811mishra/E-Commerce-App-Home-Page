@@ -21,7 +21,7 @@ class ECommerceApp extends StatelessWidget {
   }
 }
 
-// ---------------- MOCK DATA ----------------
+// data
 
 class Product {
   final String name;
@@ -54,7 +54,7 @@ final List<String> categories = [
   "Snacks"
 ];
 
-// ---------------- HOME PAGE ----------------
+// Home page
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -108,7 +108,7 @@ class _HomePageState extends State<HomePage> {
         ],
       ),
 
-      // ---------- PERFORMANCE: SLIVERS ----------
+      // categories
       body: CustomScrollView(
         slivers: [
           SliverToBoxAdapter(child: BannerSlider()),
@@ -156,7 +156,7 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
-// ---------------- UI COMPONENTS ----------------
+// ui
 
 class BannerSlider extends StatelessWidget {
   const BannerSlider({super.key});
@@ -306,7 +306,7 @@ class ProductCard extends StatelessWidget {
   }
 }
 
-// ---------------- DETAIL PAGE ----------------
+// detail page
 
 class ProductDetailPage extends StatelessWidget {
   final Product product;
@@ -343,7 +343,7 @@ class ProductDetailPage extends StatelessWidget {
   }
 }
 
-// ---------------- SECTION TITLE ----------------
+// title
 
 class SectionTitle extends StatelessWidget {
   final String title;
